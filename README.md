@@ -9,3 +9,7 @@ Configurable pulse width and repetition rate
 High stability and signal integrity
 Compatible with various measurement and testing setups
 Open-source hardware and firmware (if applicable)
+
+Contact
+Jiang 
+Surewaybee@gmail.com
